@@ -1,4 +1,4 @@
-#📍 Verificação de Proximidade entre Coordenadas (Auditoria de Campo)
+# Verificação de Proximidade entre Coordenadas (Auditoria de Campo)
 
 Este script foi desenvolvido para auditar entrevistas de campo utilizando a distância geográfica entre coordenadas coletadas pelos entrevistadores.
 Ele identifica automaticamente pontos muito próximos entre si, ajudando a detectar:
