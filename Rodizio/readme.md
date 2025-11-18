@@ -22,7 +22,7 @@ sequências predefinidas e replicáveis.
 ✅ Gera múltiplas sequências de rodízio \
 ✅ Exporta para Excel de forma organizada \
 ✅ Fácil personalização dos códigos \
-✅ Rotação automática das sequências \
+✅ Rotação automática das sequências 
 
 ### 📋 Para que usávamos o Excel gerado: 
 O arquivo Excel de saída era utilizado como ferramenta de controle operacional para 
